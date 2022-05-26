@@ -1,5 +1,5 @@
-# Telematica
+# Tópicos de Telematica
 
-Repositorio para telemática.
+Repositorio para tópicos de telemática.
 
 En la carpeta BigData se encuentra todo lo relacionado a la Unidad 3.
