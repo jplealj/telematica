@@ -142,3 +142,10 @@ Y los archivos se subieron también a AWS S3 satisfactoriamente.
 ![alt text](/BigData/Lab1/img/s3_ssh_4.jpg "s3ssh4")  
 
 ## Acceso público a Bucket S3
+
+Para garantizar acceso público a la información del bucket se garantizó acceso mediante el botón de make public.  
+![alt text](/BigData/Lab1/img/make_public.jpg "makepublic")  
+En los permisos del bucket se agregan la opción de leer la información desde cualquier acceso público.  
+![alt text](/BigData/Lab1/img/acl_per.jpg "acl_per")  
+Ya se puede acceder a la información del bucket en este link:  
+https://datasetsjplj.s3.us-east-1.amazonaws.com/
